@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/science/HomePage.unity
+    guid: 6b9db22e478826d409aa8e76fb1c48d4
+  - enabled: 1
+    path: Assets/Scenes/science/1 food/cleaning food/CleaningMethods.unity
+    guid: f6eeddc5c48c75944ab9db1d08bf4cfb
+  - enabled: 1
+    path: Assets/Scenes/science/1 food/components of food/ComponentsOfFood.unity
+    guid: c885d2b902f11ed459f1d1061925768b
+  - enabled: 1
+    path: Assets/Scenes/science/2 materials/materials of daily use/DailyUseMaterials.unity
+    guid: 0834dd2f3733be146abf84e810cf4737
+  - enabled: 1
+    path: Assets/Scenes/science/3 the world of living/Skeletons.unity
+    guid: d36180308c3573e4fa1082423fd904dd
+  - enabled: 1
+    path: Assets/Scenes/science/4 Moving things,people, ideas moving/MeasuringTools.unity
+    guid: d735cb9b15f3fe343a470c5eba298aee
+  - enabled: 1
+    path: Assets/Scenes/science/5 how things work/electric current and circuits/ThingsWork.unity
+    guid: 4491a0c29fce7a14da0ac241ef7e64a7
+  - enabled: 1
+    path: Assets/Scenes/science/6 natural phenomenon/NaturalPhenomenon.unity
+    guid: 8b570e7e57007f24da4be8f0d1b709e2
+  - enabled: 1
+    path: Assets/Scenes/science/7 natural resources/NaturalResourcces.unity
+    guid: 4dd3cdc861dbd2f4286ff9d18528c840
+  - enabled: 1
+    path: Assets/Scenes/science/7 natural resources/waste/WasteBins.unity
+    guid: d3ab7a177f000d745a3c2cb537923af0
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 41702d90c3a96bd44bcb42072eb57007,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 77e719a74386bda48823fed3c42e2cd9,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
